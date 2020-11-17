@@ -1,3 +1,4 @@
+### Took from (Vultr Doc)[https://www.vultr.com/docs/update-debian-server-best-practices]
 # Introduction  
 It is a best practice to update your server on a regular schedule for security and stability. Use this guide to keep your Debian server updated.  
   
